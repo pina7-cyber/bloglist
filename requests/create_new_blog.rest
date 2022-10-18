@@ -1,9 +1,9 @@
-POST http://localhost:3001/api/notes
+POST http://localhost:3001/api/blogs
 content-type: application/json
 
 {
-    "title": "Bitcoin",
-    "author": "Blockchain-Freak",
-    "url": "www.blockchain.de",
-    "likes": 78
+    "title": "Fullstack",
+    "author": "Frontend-Backend",
+    "url": "www.fullstack.de",
+    "likes": 987
 }
