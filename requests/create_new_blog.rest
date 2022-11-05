@@ -1,9 +1,9 @@
 POST http://localhost:3001/api/blogs
 content-type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJXaXRoVG9rZW4iLCJpZCI6IjYzNjY1OWQzMWFkY2MwMzgxMDMyMGI1NCIsImlhdCI6MTY2NzY1MzE2Mn0.CtHgiNYB2EUswyAqpcbA1AWaVXB_dgwHBLo_wxhTDPk
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im11c3RpIiwiaWQiOiI2MzY2YzZlZGY2ZDJhMzM2NjU2OWU5NjgiLCJpYXQiOjE2Njc2ODAwMjN9.xO4aOJ5wP6Yt7w1exSLk1XLGOonWvob79uk_NIuuh2g
 
 {
-    "title": "fifth Blog with creator",
+    "title": "Test Title",
     "author": "nice author",
     "url": "www.niceauthor.de",
     "likes": 1
